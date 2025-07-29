@@ -1,8 +1,6 @@
 # Fraud_Detection
 Identifying fradulent transactions in a dataset using different machine learning models 
 Fraud Detection System
-https://img.shields.io/badge/Fraud-Detection-red 
-https://img.shields.io/badge/Python-3.8%252B-blue https://img.shields.io/badge/Machine-Learning-green
 
 A machine learning-based fraud detection system designed to identify fraudulent transactions using various classification algorithms.
 
